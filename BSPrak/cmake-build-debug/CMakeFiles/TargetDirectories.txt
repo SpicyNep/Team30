@@ -1,0 +1,3 @@
+C:/Users/samko/CLionProjects/BSPrak/cmake-build-debug/CMakeFiles/BSPrak.dir
+C:/Users/samko/CLionProjects/BSPrak/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/samko/CLionProjects/BSPrak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
